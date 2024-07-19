@@ -1,1 +1,2 @@
-# Prodigy-Task-1-Response-Page-
+# responsive-landing-page-
+a responsive page using html css and javascript with navigation baar 
